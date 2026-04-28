@@ -7,7 +7,11 @@ como testar:
 2. Abra o terminal na pasta raiz do projeto.
 3. Instale as dependências executando o comando abaixo:
 
+```bash
 npm install
+```
+
+
 A ferramenta pode ser utilizada de duas formas:
 
 Validar uma URL direta:
